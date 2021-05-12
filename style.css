@@ -1,0 +1,32 @@
+.test_image_and_result
+{
+  background-color: gray;
+}
+
+.test_image_and_result2
+{
+  background-color: green;
+}
+
+.test_image_and_result3
+{
+  background-color: red;
+}
+
+.test_image_and_result4
+{
+  background-color: yellow;
+}
+
+.test_image_and_result5
+{
+  background-color: blue;
+}
+
+  canvas
+  {
+      border: 5px solid white;
+      border-radius: 20px;
+      box-shadow: 5px 5px 5px grey;
+      margin-top: 160px;
+  }
